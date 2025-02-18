@@ -78,6 +78,6 @@ fun CountryItem(country: Country, modifier: Modifier = Modifier //all the compon
 
 @Preview
 @Composable
-private fun PersonListPreview() {
+private fun CountryListPreview() {
     CountryList()
 }
