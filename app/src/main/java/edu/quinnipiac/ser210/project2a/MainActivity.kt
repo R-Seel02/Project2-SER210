@@ -1,4 +1,10 @@
 package edu.quinnipiac.ser210.project2a
+/*
+Ryan Seely
+Feb 17 2025
+This project uses lazyColumn to make a list of countries, their flags and a fun fact.
+ */
+
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity

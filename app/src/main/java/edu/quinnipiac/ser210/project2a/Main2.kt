@@ -1,9 +1,11 @@
 /*
 Ryan Seely
 Feb 17 2025
-This project uses lazyColumn to make a list of countries, their flags and a fun fact.
+This project creates an awesome movie poster for the best movie every SPvW
  */
 
+
+import Country
 import androidx.compose.foundation.Image
 import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.Column
